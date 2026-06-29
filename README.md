@@ -258,9 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React Integration Guide](backend/REACT_INTEGRATION_GUIDE.md)
 - [Health Check](http://localhost:3000/health)
 
-## 📞 Support
 
-For support, email ayazpatel701@gmail.com or create an issue in this repository.
 
 ## 🏆 Acknowledgments
 
